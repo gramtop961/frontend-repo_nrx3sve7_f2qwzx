@@ -13,7 +13,7 @@ const initialProducts = [
     category: 'Books',
     condition: 'Like New',
     rating: 5,
-    image: 'https://images.unsplash.com/photo-1519681393784-d120267933ba?q=80&w=1200&auto=format&fit=crop'
+    image: 'https://images.unsplash.com/photo-1754304342321-2b4b9ed3fd2a?ixid=M3w3OTkxMTl8MHwxfHNlYXJjaHwxfHxDYWxjdWx1cyUzQSUyMEVhcmx5JTIwVHJhbnNjZW5kZW50YWxzJTIwJTI4OHRofGVufDB8MHx8fDE3NjIxMDYwNjJ8MA&ixlib=rb-4.1.0&w=1600&auto=format&fit=crop&q=80'
   },
   {
     id: 'p2',
@@ -22,7 +22,7 @@ const initialProducts = [
     category: 'Electronics',
     condition: 'Good',
     rating: 4,
-    image: 'https://images.unsplash.com/photo-1518779578993-ec3579fee39f?q=80&w=1200&auto=format&fit=crop'
+    image: 'https://images.unsplash.com/photo-1552926738-05d2482b9c36?ixid=M3w3OTkxMTl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NjIxMDYwNjJ8&ixlib=rb-4.1.0&w=1600&auto=format&fit=crop&q=80'
   },
   {
     id: 'p3',
@@ -67,7 +67,7 @@ const initialProducts = [
     category: 'Supplies',
     condition: 'New',
     rating: 4,
-    image: 'https://images.unsplash.com/photo-1515879218367-8466d910aaa4?q=80&w=1200&auto=format&fit=crop'
+    image: 'https://images.unsplash.com/photo-1598620616655-7fce1a6fdf87?ixid=M3w3OTkxMTl8MHwxfHNlYXJjaHwxfHxSZXVzYWJsZSUyME5vdGVib29rJTIwJTI4U21hcnQlMjBOb3RlYm9vayUyOXxlbnwwfDB8fHwxNzYyMTA2MDYzfDA&ixlib=rb-4.1.0&w=1600&auto=format&fit=crop&q=80'
   },
   {
     id: 'p8',
@@ -76,7 +76,7 @@ const initialProducts = [
     category: 'Electronics',
     condition: 'Good',
     rating: 4,
-    image: 'https://images.unsplash.com/photo-1507238691740-187a5b1d37b8?q=80&w=1200&auto=format&fit=crop'
+    image: 'https://images.unsplash.com/photo-1650735310143-41f3baa9d1a3?ixid=M3w3OTkxMTl8MHwxfHNlYXJjaHwxfHxNYWNCb29rJTIwQWlyJTIwMTN8ZW58MHwwfHx8MTc2MjEwNjA2M3ww&ixlib=rb-4.1.0&w=1600&auto=format&fit=crop&q=80'
   },
   {
     id: 'p9',
@@ -94,7 +94,7 @@ const initialProducts = [
     category: 'Home',
     condition: 'Good',
     rating: 4,
-    image: 'https://images.unsplash.com/photo-1540575467063-178a50c2df87?q=80&w=1200&auto=format&fit=crop'
+    image: 'https://images.unsplash.com/photo-1759146464279-af282e1d2c73?ixid=M3w3OTkxMTl8MHwxfHNlYXJjaHwxfHxSdWclMjBmb3IlMjBEb3JtJTIwJTI4NHg2JTI5fGVufDB8MHx8fDE3NjIxMDYwNjR8MA&ixlib=rb-4.1.0&w=1600&auto=format&fit=crop&q=80'
   },
   {
     id: 'p11',
@@ -112,7 +112,7 @@ const initialProducts = [
     category: 'Home',
     condition: 'Like New',
     rating: 4,
-    image: 'https://images.unsplash.com/photo-1519710164239-da123dc03ef4?q=80&w=1200&auto=format&fit=crop'
+    image: 'https://images.unsplash.com/photo-1612813434847-b01fffea46ae?ixid=M3w3OTkxMTl8MHwxfHNlYXJjaHwxfHxEZXNrJTIwTGFtcCUyMHdpdGglMjBVU0J8ZW58MHwwfHx8MTc2MjEwNjA2NHww&ixlib=rb-4.1.0&w=1600&auto=format&fit=crop&q=80'
   }
 ];
 
